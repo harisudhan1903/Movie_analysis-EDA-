@@ -1,0 +1,1 @@
+Exploratory Data Analysis (EDA) is a critical step in the data science process that involves summarizing the main characteristics of a dataset often using visual methods. The dataset consists of top 1000 IMDB rating movies. Using EDA the visualizations are created and based on the category the graphs are plotted.
